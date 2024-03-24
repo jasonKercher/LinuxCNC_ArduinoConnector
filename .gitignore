@@ -2,3 +2,4 @@
 .vscode/arduino.json
 
 .pio/
+src/
